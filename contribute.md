@@ -3,9 +3,18 @@ title: "Contribute"
 date: 2023-05-25T20:27:11+02:00
 author: "Thomas Panzeri"
 tags:
-description: ""
-cover: ""
-draft: true
+  - contribute
+  - opensource
+  - community
+  - github
+  - developers
+  - cheatsheets
+  - programming
+  - coding
+  - clone
+  - fork
+description: "Learn more about why and how to contribute to the cheatsheet collection."
+cover: img/cheatsheet.webp
 ---
 
 ### Why contribute to the cheatsheet collection?
@@ -31,7 +40,7 @@ The cheatsheet collection is a collaborative effort to provide developers with e
   href="https://github.com/PanzeriT/cheatsheets" text="explore the Github repository" >}} right away
   and familiarize yourself with the existing cheatsheets. Gain inspiration from the structure,
   content, and formatting of these resources.
--  Choose a topic: identify a programming language, framework, or tool that you're knowledgeable about and passionate to create a cheatsheet for. Ensure that the topic hasn't been covered extensively or if you can provide a unique perspective.
+- Choose a topic: identify a programming language, framework, or tool that you're knowledgeable about and passionate to create a cheatsheet for. Ensure that the topic hasn't been covered extensively or if you can provide a unique perspective.
 - Craft your cheatsheet: follow the guidelines provided in the repository to structure your cheatsheet effectively. Include essential syntax, common functions, best practices, and any other valuable information. Make it concise, organized, and visually appealing.
 - Submit your contribution: fork the repository, create a new branch, and submit a pull request with your cheatsheet. Be sure to follow the contribution guidelines and provide a clear description of your changes. Collaborate with maintainers and address any feedback or suggestions.
 
@@ -86,7 +95,7 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ### What else?
 
-Feel free to use the cheatsheets wherever you want. You can use them as a quick reference, print them out and stick them on your wall, or share them with others - use in on your own homepage even. Just don't forget to set a link to my page. That would be very much appreciated. 
+Feel free to use the cheatsheets wherever you want. You can use them as a quick reference, print them out and stick them on your wall, or share them with others - use in on your own homepage even. Just don't forget to set a link to my page. That would be very much appreciated.
 
 If you have any suggestions or feedback, please let me know. I'd love to hear from you!
 
